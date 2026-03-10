@@ -1,0 +1,96 @@
+m255
+K4
+z2
+!s12c _opt1
+Z0 !s99 nomlopt
+Z1 !s12c _opt
+R0
+R1
+R0
+!s11f vlog 2024.3 2024.09, Sep 10 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 dC:/Users/Gorkem/Desktop/HW1-Traffic-Light-FSM
+T_opt
+!s110 1773153676
+VXlkk^lCV[A:8dYo>W2DzQ0
+Z3 04 14 4 work traffic_fsm_tb fast 0
+=1-4c1d967fef04-69b02d8b-2ca-5714
+R0
+Z4 !s12f OEM100
+Z5 !s12b OEM100
+Z6 !s124 OEM10U2 
+Z7 !s135 nogc
+o-quiet -auto_acc_if_foreign -work work
+Z8 tCvgOpt 0
+n@_opt
+Z9 OL;O;2024.3;79
+R2
+T_opt1
+!s110 1773154483
+VNCFB8`RNAjQaPFk8FmT^33
+R3
+=1-4c1d967fef04-69b030b1-303-4acc
+R0
+R4
+R5
+R6
+R7
+o-quiet -auto_acc_if_foreign -work work +acc
+R8
+n@_opt1
+R9
+vtraffic_fsm
+2C:/Users/Gorkem/Desktop/HW1-Traffic-Light-FSM/HW1-Traffic-Light-FSM.sv
+Z10 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1773153704
+!i10b 1
+!s100 LbElM7JmZ6PMBzg>nCEGm3
+I^R_@TfjlhE>Wg9aXdQTYD0
+S1
+R2
+w1773153385
+8C:/Users/Gorkem/Desktop/HW1-Traffic-Light-FSM/HW1-Traffic-Light-FSM.sv
+FC:/Users/Gorkem/Desktop/HW1-Traffic-Light-FSM/HW1-Traffic-Light-FSM.sv
+!i122 8
+L0 1 84
+Z11 VDg1SIo80bB@j0V0VzS_@n1
+Z12 OL;L;2024.3;79
+r1
+!s85 0
+31
+!s108 1773153704.000000
+!s107 C:/Users/Gorkem/Desktop/HW1-Traffic-Light-FSM/HW1-Traffic-Light-FSM.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Gorkem/Desktop/HW1-Traffic-Light-FSM/HW1-Traffic-Light-FSM.sv|
+!i113 0
+Z13 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R8
+vtraffic_fsm_tb
+2C:/Users/Gorkem/Desktop/HW1-Traffic-Light-FSM/Traffic-Light-FSM-TB.sv
+R10
+!s110 1773153705
+!i10b 1
+!s100 iBbVD_FC^?UA^ebc[A>Rk1
+I32Qc@oDhK]eJl1PJVf_;n2
+S1
+R2
+w1773153401
+8C:/Users/Gorkem/Desktop/HW1-Traffic-Light-FSM/Traffic-Light-FSM-TB.sv
+FC:/Users/Gorkem/Desktop/HW1-Traffic-Light-FSM/Traffic-Light-FSM-TB.sv
+!i122 9
+L0 5 48
+R11
+R12
+r1
+!s85 0
+31
+!s108 1773153705.000000
+!s107 C:/Users/Gorkem/Desktop/HW1-Traffic-Light-FSM/Traffic-Light-FSM-TB.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/Gorkem/Desktop/HW1-Traffic-Light-FSM/Traffic-Light-FSM-TB.sv|
+!i113 0
+R13
+R8
